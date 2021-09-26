@@ -1,0 +1,208 @@
+[
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Músculos que se encargan de los movimientos involuntarios.",
+        "respuesta": "Lisos",
+        "incorrecta1": "Estriados",
+        "incorrecta2": "Cardíacos",
+        "incorrecta3": "Esqueléticos\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Enfermedad que ataca al hígado.",
+        "respuesta": "Hepatitis",
+        "incorrecta1": "Renitis",
+        "incorrecta2": "Bulimia",
+        "incorrecta3": "Onicomicosis\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " Función principal del intestino grueso",
+        "respuesta": "Absorción De Agua",
+        "incorrecta1": "Producción De Insulina",
+        "incorrecta2": "Producción De Glucógeno",
+        "incorrecta3": "Producción Del Jugo Pancreático\r",
+        "imagen": "https://i.ibb.co/pJ8q4JB/image.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Cambio de estado ocurre en la sublimación.",
+        "respuesta": "Solido A Gaseoso",
+        "incorrecta1": "Gaseoso A Solido",
+        "incorrecta2": "Solido A Liquido",
+        "incorrecta3": "Liquido A Gaseoso\r",
+        "imagen": "https://i.ibb.co/6v4nGBq/Materia.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Cambio de sólido a gaseoso.",
+        "respuesta": "Sublimación",
+        "incorrecta1": "Cohesión",
+        "incorrecta2": "Evaporación",
+        "incorrecta3": "Condensación\r",
+        "imagen": "https://i.ibb.co/6v4nGBq/Materia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál es el verdadero nombre de Alejandro Sanz?",
+        "respuesta": "Alejandro Sánchez Pizarro",
+        "incorrecta1": "Alejandro Sánchez Gutiérrez",
+        "incorrecta2": "Alexander Santiago Seguiz",
+        "incorrecta3": "Alejandro Alberto Sanzón\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién es la mascota de SEGA?",
+        "respuesta": "Sonic",
+        "incorrecta1": "Mario",
+        "incorrecta2": "Pac Man",
+        "incorrecta3": "Ryu\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuántos premios Grammy ha ganado Britney Spears?",
+        "respuesta": "1",
+        "incorrecta1": "2",
+        "incorrecta2": "3",
+        "incorrecta3": "4\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién es Bella en la saga \"Crepúsculo\"?",
+        "respuesta": "Kristen Stewart",
+        "incorrecta1": "Cristina Ricci",
+        "incorrecta2": "Emma Watson",
+        "incorrecta3": "Dakota Fanning\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál es considerado por los fans el peor juego de la historia de ATARI?",
+        "respuesta": "ET",
+        "incorrecta1": "Tetris",
+        "incorrecta2": "Combat",
+        "incorrecta3": "Galaxian\r"
+    },
+    
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es el país menos turístico de Europa?",
+        "respuesta": "Liechtenstein",
+        "incorrecta1": "Hungría",
+        "incorrecta2": "Armenia",
+        "incorrecta3": "Moldavia\r"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿A qué país pertenece la isla de Tasmania?",
+        "respuesta": "Australia",
+        "incorrecta1": "Portugal",
+        "incorrecta2": "Estados Unidos",
+        "incorrecta3": "Ninguna Es Correcta\r"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En cuál de los siguientes países NO hay ningún desierto?",
+        "respuesta": "Alemania",
+        "incorrecta1": "Mongolia",
+        "incorrecta2": "Chile",
+        "incorrecta3": "España\r"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es el código internacional para Cuba?",
+        "respuesta": "CU",
+        "incorrecta1": "CA",
+        "incorrecta2": "CB",
+        "incorrecta3": "Ninguna Es Correcta\r"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital del estado de Arkansas?",
+        "respuesta": "Little Rock",
+        "incorrecta1": "Kansas",
+        "incorrecta2": "Hot Springs",
+        "incorrecta3": "Washington\r"
+    },
+    
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿De qué deporte es el kemari uno de los principales antecesores?",
+        "respuesta": "Fútbol",
+        "incorrecta1": "Tenis",
+        "incorrecta2": "Rugby",
+        "incorrecta3": "Karate\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el clásico rival del Flamengo (BRA)?",
+        "respuesta": "Corinthians",
+        "incorrecta1": "Palmeiras",
+        "incorrecta2": "Cruzeiro",
+        "incorrecta3": "São Paulo\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué jugadora de hockey sobre césped ha ganado 7 veces el premio a la mejor jugadora del mundo de 2013?",
+        "respuesta": "Luciana Aymar",
+        "incorrecta1": "Natascha Keller",
+        "incorrecta2": "Alyson Annan",
+        "incorrecta3": "Maartje Paumen\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién marcó el gol 3.500 en Liga del Atlético de Madrid?",
+        "respuesta": "Christian Vieri",
+        "incorrecta1": "Zinedine Zidane",
+        "incorrecta2": "Luka Modric",
+        "incorrecta3": "Adrián Escudero\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos mangos por lado tiene el futbolín?",
+        "respuesta": "Cuatro",
+        "incorrecta1": "Dos",
+        "incorrecta2": "Tres",
+        "incorrecta3": "Cinco\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Periodo de vida de J. Kepler",
+        "respuesta": "(1571 - 1630)",
+        "incorrecta1": "(1672 - 1720)",
+        "incorrecta2": "(1420 - 1507)",
+        "incorrecta3": "Sigue con vida\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Famoso por una manzana que cayó en su cabeza",
+        "respuesta": "I Newton",
+        "incorrecta1": "G Leibniz",
+        "incorrecta2": "L'Hopital",
+        "incorrecta3": "M Agnesi\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿En qué año Newton Descubrió el calculo?",
+        "respuesta": "1665",
+        "incorrecta1": "1637",
+        "incorrecta2": "1728",
+        "incorrecta3": "1696\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Qué descubrio Kepler en 1609?",
+        "respuesta": "Las leyes del movimiento planetario",
+        "incorrecta1": "La geometria analitica",
+        "incorrecta2": "La integral de Kepler",
+        "incorrecta3": "El volumen del cilindro\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Que numero introdujo Euler",
+        "respuesta": "2,71828182845904523536028747135266249775…",
+        "incorrecta1": "1,41421356237309504880168872420969807856…",
+        "incorrecta2": "0",
+        "incorrecta3": "1.73205080756887729352744634150587236694…\r"
+    }
+    
+]
