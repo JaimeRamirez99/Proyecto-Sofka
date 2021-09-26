@@ -65,6 +65,7 @@ window.onload = function() {
       
     }else{
        select_id("puntaje").innerHTML = ""
+       
     }
     style("imagen").objectFit = pregunta.objectFit;
     desordenarRespuestas(pregunta)
@@ -110,6 +111,7 @@ window.onload = function() {
       btn_correspondiente[i].style.background = "lightgreen"
     } else {
       btn_correspondiente[i].style.background = "pink"
+      window.location = "perdio.html"
     }
     for (let j = 0; j < 4; j++) {
       if (posibles_respuestas[j] == pregunta.respuesta) {
